@@ -1,5 +1,5 @@
 # OmniQuiz
-A simple quiz game built with some specific requirements. Why is it called OmniQuiz? It's because i build this app as an assignment for Omnicuris ().
+A simple quiz game built with some specific requirements. Why is it called OmniQuiz? It's because i build this app as an assignment for Omnicuris (India's Largest Online CME Platform).
 * A single player quiz game
 * A start screen that a user can start a new game
 * 10 unique questions, each quiz question has 5 choices
